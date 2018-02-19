@@ -38,5 +38,5 @@ $ pip install ec2-security-groups-dumper
 
 ## See Also
 
-- [IAMer](https://github.com/percolate/iamer) to dump your IAM rules as INI and
+- [IAMer](https://github.com/Sunil777/iamer) to dump your IAM rules as INI and
   JSON text files.
